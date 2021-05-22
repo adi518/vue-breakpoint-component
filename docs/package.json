@@ -46,7 +46,7 @@
     "gh-pages": "^2.1.1",
     "html-loader": "^0.5.5",
     "markdown-loader": "^5.1.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
     "stylus": "^0.54.7",
